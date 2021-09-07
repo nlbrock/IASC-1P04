@@ -1,2 +1,7 @@
-# IASC-1P04
-GitHub repository for 1P04
+# IASC-1P04 | Nathan Ludberg
+
+Welcome to the website for my Twine Game, created for the course IASC 1P04 at Brock University
+
+## PLaytest
+
+Playtest my game [link to] (link)
