@@ -6,7 +6,7 @@ Dive is a short exploration game taking place in the deep dark depths of the oce
 
 ## Play Now
 
-Play Dive [here](https://nlbrock.github.io/IASC-1P04/Final_Build/Dive_v3)
+Play Dive [here](Final_Build/Dive_v3.html)
 
 ## Playtest
 
