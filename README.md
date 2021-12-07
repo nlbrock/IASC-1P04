@@ -1,15 +1,12 @@
-# Black Hole Station by Nathan Ludberg
+# Dive by Nathan Ludberg
 ## IASC 1P04
+Welcome to the website for my Twine Game, created for the course IASC 1P04 at Brock University
 
-Black Hole Station is a short adventure game where players explore an abandoned space station. As they solve the mystery of the black hole station, players collect energy, activate teh black hole device, and encounter a mysterious stranger who may be he key to it all. Inspired by *Outer Wilds* and Ted Chiag's "The Merchant and the Alchemist"s Gate", Black Hole Station coveys the idea that helping others is the best way to help yourself.
+Dive is a short exploration game taking place in the deep dark depths of the ocean. In this game you will have to explore and uncover things that lurk in the darkness of the unknown, as well as try to stay alive. I hope you enjoy my first ever Twine game.
 
 ## Play Now
 
-Play Black Hole Station [here](https://nlbrock.github.io/IASC-1P04/Final_Build/BlackHoleStationv5_FINAL.html)
-
-Play Black Hole Station [here](Final_Build/BlackHoleStationv5_FINAL.html)
-
-Welcome to the website for my Twine Game, created for the course IASC 1P04 at Brock University
+Play Dive [here](IASC-1P04/Final_Build/Dive_v3.html)
 
 ## Playtest
 
